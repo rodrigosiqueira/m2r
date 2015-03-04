@@ -3,7 +3,8 @@
 ## Project
 > M2R is a software developed in C and C++, responsible for rendering map images with given options using OpenStreetMap data.
 
-**More info will be added according to the development of the project.**
+> **More info will be added according to the development of the project.**
+
 ----
 
 
