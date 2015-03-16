@@ -6,8 +6,12 @@
 #ifndef _NODE_OSM_HPP_
 #define _NODE_OSM_HPP_
 
+
+#include <exception>
+#include <list>
 #include <map>
 #include <string>
+
 
 /**
 * @class NodeOSM
